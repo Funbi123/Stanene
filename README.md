@@ -1,2 +1,2 @@
 # Stanene
-The superconducting properties particularly its superconducting temperature is evaluated using the Quantum ESPRESSO suite of codes.
+The superconducting properties particularly its superconducting temperature is evaluated using the Quantum ESPRESSO suite of codes. Calculations to obtain the optimum structure of both doped and undoped stanene were performed and further calculations to obtain the band structure, density of states, phonon dispersion curve and phonon density of states were also obtained to achieve the aim of this work.
